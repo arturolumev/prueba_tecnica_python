@@ -1,0 +1,9 @@
+Flask
+SQLAlchemy
+Flask-Migrate
+Matplotlib
+pandas
+boto3
+pytest
+pytest-cov
+python-dotenv
