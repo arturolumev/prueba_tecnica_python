@@ -11,7 +11,7 @@
 3. Instalar las dependencias
    ```bash
    pip install -r requirements.txt
-4. Configurar las variables de entorno:
+4. Configurar las variables de entorno en un archivo .env:
    ```bash
    AWS_ACCESS_KEY_ID
    AWS_SECRET_ACCESS_KEY
